@@ -1,0 +1,2 @@
+robocopy "C:\Users\AlexanderV\OneDrive - b-b.be\Bureaublad\PlotFolder\04_Werkfolder\00_THOMAS MORE\24_MasterBuildingIntelligence\UI\Github\Master-Building-Intelligence\MBI.extension\bin\Update" "C:\Users\AlexanderV\OneDrive - b-b.be\Bureaublad\test" /e /mir /sec /secfix
+pause
